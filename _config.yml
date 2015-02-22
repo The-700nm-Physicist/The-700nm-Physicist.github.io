@@ -3,17 +3,17 @@ permalink:        pretty
 relative_permalinks: true
 
 # Setup
-title:            Poole
-tagline:          The Jekyll Butler
-url:              http://getpoole.com
+title:            Promethean Dreams
+tagline:          The feel of life as a scientist-primitive
+url:              https://the-700nm-physicist.github.io/
 paginate:         1
 baseurl:          /
 author:
-  name:           Mark Otto
-  url:            https://twitter.com/mdo
-  email:          markdotto@gmail.com
+  #name:           Mark Otto
+  #url:            https://twitter.com/mdo
+  #email:          markdotto@gmail.com
 
 # Custom vars
 version:          1.0.0
 github:
-  repo:           https://github.com/poole/poole
+  repo:           https://github.com/The-700nm-Physicist/The-700nm-Physicist.github.io
