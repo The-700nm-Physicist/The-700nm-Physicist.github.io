@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Promethean Dreams: how and why?
+title: Example contQQQent
 ---
 
 I've tried to start a blog before...
